@@ -9,7 +9,7 @@ Escriba una clase **Elimination** que contará con los siguientes criterios:
     - `Order`: El orden en que realizará la eliminacion, ascendente o descendente.
     - `Size` : El tamaño de la lista.
     - `Interval`: El intervalo en el que hara las eliminaciones.
-- Tambien, debera contar con los siguientes metodos:\
+- Tambien, debera contar con los siguientes metodos:
     - `new(a)` : Actualizar la lista con una nueva `a[]`.
     - `Show()` : mostrar el contenido de la lista.
     - `Eliminate()`: El proceso de eliminar, usando order e interval, se hara la eliminacion de los elementos que tenga la lista.     
