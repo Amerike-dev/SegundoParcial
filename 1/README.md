@@ -4,17 +4,17 @@ Los siguientes ejercicios seran calificados no solamente con el resultado, se ca
 ## Ejercicio
 Escriba una clase **Palindrome** que contará con los siguientes criterios:
 - Debe tener los siguientes Fields:
-    - Size: Tamaño del palindromo.
-    - Count: Conteo de la letra que mas se repite y su valor.
-    - Palindrome: donde se almacena el palindromo.
-    - Value: donde se contiene el valor si no es palindromo.
+    - `Size`: Tamaño del palindromo.
+    - `Count`: Conteo de la letra que mas se repite y su valor.
+    - `Palindrome`: donde se almacena el palindromo.
+    - `Value`: donde se contiene el valor si no es palindromo.
 - Tambien, debera contar con los siguientes metodos:
-    - Show() : mostrar el palindromo o el contenido.
-    - isPalindrome(): Revisar si es un palindromo.
-    - new(value) : cambiar el palindromo actual con un nuevo valor.
-    - remove(index=0) : eliminar un elemento en un indice definido, este metodo debera de mantener la estructura de un palindromo. Es decir "anitalavalatina" > remove(2) = "antalavalatna".
-    - add(index=0) : agregar un nuevo elemento en un indice definido. Tambien debe mantener la estructura de un palindromo.
-    - multiply(n) : Se repetira el palindromo n veces, actualizando sus fields, size, count, palindrome, value.
+    - `Show()` : mostrar el palindromo o el contenido.
+    - `isPalindrome()`: Revisar si es un palindromo.
+    - `new(value)` : cambiar el palindromo actual con un nuevo valor.
+    - `remove(index=0)` : eliminar un elemento en un indice definido, este metodo debera de mantener la estructura de un palindromo. Es decir "anitalavalatina" > remove(2) = "antalavalatna".
+    - `add(index=0)` : agregar un nuevo elemento en un indice definido. Tambien debe mantener la estructura de un palindromo.
+    - `multiply(n)` : Se repetira el palindromo n veces, actualizando sus fields, size, count, palindrome, value.
 
 
 ### Consideraciones
